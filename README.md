@@ -1,2 +1,2 @@
-##Pensamento_Computacional
-#19/09/23#
+Pensamento_Computacional
+19/09/23
